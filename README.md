@@ -1,10 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=akaspringfield&style=for-the-badge&color=brightgreen)
 
-👋 Hi, I’m 
-######     Akash Mambally
+👋 Hi,  
+###### I’m Akash Mambally
 - 👀 I’m interested in Python, Data Analysis, API development
 - 🌱 I’m currently learning flutter app development
+- 💞️ Passionate about software development of all forms.
 - 💞️ I’m looking to collaborate on QR code scanning projects using python
 - 📫 How to reach me on [twitter](https://twitter.com/akash_tvm)
 
