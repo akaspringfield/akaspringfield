@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=akaspringfield&style=for-the-badge&color=brightgreencolor=green)
+![](https://komarev.com/ghpvc/?username=akaspringfield&style=for-the-badge&color=brightgreen)
 
 - 👋 Hi, I’m ###### Akash Mambally
 - 👀 I’m interested in Python, Data Analysis, API development
