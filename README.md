@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=akaspringfield)
+![](https://komarev.com/ghpvc/?username=akaspringfield&&style=flat-square&color=brightgreen)
 
 
 - 👋 Hi, I’m akash mambally
