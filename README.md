@@ -3,11 +3,11 @@
 
   Hi 👋 there,   
 ## I’m Akash
-- 👀 I’m interested in Python, Data Analysis, API development
-- 🌱 I’m currently learning flutter app development
+- 👀 I’m interested in Python, Business Analytics, API development.
+- 🌱 I’m currently learning Data Analysis.
 - 💞️ Passionate about software development of all forms.
 - 🙋‍♂️ I love connecting with new people and I adore the ones who share a vision to impact the world in a positive way.
-- 💞️ I’m looking to collaborate on QR code based scanning projects using python.
+- 💞️ I’m looking to collaborate on QR code based scanning projects using python or C++.
 - 📫 How to reach me on twitter link in bio
 
 <!---
